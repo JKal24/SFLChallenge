@@ -1,3 +1,11 @@
+## SFL Challenge
+
+Name: Jaskaran Kalirai
+
+Created a navbar which allows navigation between pages.
+
+Site: https://61d89a7f48a39c24b5746fa8--distracted-mcclintock-66b940.netlify.app/
+
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.com">
