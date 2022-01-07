@@ -10,12 +10,6 @@ const Nav = () => (
         <Link to="/using-typescript/">Go to "Using TypeScript"</Link> <br />
       </li>
       <li>
-        <Link to="/using-ssr">Go to "Using SSR"</Link> <br />
-      </li>
-      <li>
-        <Link to="/using-dsg">Go to "Using DSG"</Link>
-      </li>
-      <li>
         <Link to="/">Go back to the homepage</Link>
       </li>
     </nav>
