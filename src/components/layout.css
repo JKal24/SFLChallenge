@@ -595,14 +595,14 @@ pre tt:after {
     font-size: 100%;
   }
 }
-.NavContent {
-  margin-left: 0;
+.header-navbar {
+  margin-bottom: 0.5em;
   background-color: rebeccapurple;
 }
-.NavItem {
-  margin: 1rem;
+.header-navbar li {
+  margin: 1em;
   display: inline-block;
 }
-.NavItem a {
+.header-navbar li a {
   color: white;
 }
