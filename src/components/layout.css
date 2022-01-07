@@ -596,11 +596,10 @@ pre tt:after {
   }
 }
 .header-navbar {
-  margin-bottom: 0.5em;
-  background-color: rebeccapurple;
+  margin-top: 1em;
 }
 .header-navbar li {
-  margin: 1em;
+  margin-right: 1.2em;
   display: inline-block;
 }
 .header-navbar li a {
